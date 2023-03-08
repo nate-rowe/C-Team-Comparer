@@ -1,0 +1,15 @@
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Release\StatsComparerThingy.exe.config
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Release\StatsComparerThingy.exe
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Release\StatsComparerThingy.pdb
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Release\HtmlAgilityPack.xml
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\StatsComparerThingy.Form1.resources
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\StatsComparerThingy.Form2.resources
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\StatsComparerThingy.Properties.Resources.resources
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\TeamStatsComparer.csproj.GenerateResource.cache
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\TeamStatsComparer.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\TeamStatsComparer.csproj.CopyComplete
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\StatsComparerThingy.exe
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\StatsComparerThingy.pdb
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\TeamStatsComparer.csprojAssemblyReference.cache
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Release\TeamStatsComparer.csproj.Fody.CopyLocal.cache

@@ -1,0 +1,15 @@
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Debug\StatsComparerThingy.exe.config
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Debug\StatsComparerThingy.exe
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Debug\StatsComparerThingy.pdb
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.csprojAssemblyReference.cache
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.Form1.resources
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.Properties.Resources.resources
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.csproj.GenerateResource.cache
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.exe
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.pdb
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Nate\source\repos\StatsComparerThingy\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.csproj.CopyComplete
+C:\Users\Nate\source\repos\StatsComparerThingy\obj\Debug\StatsComparerThingy.Form2.resources
